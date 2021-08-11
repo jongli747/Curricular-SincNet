@@ -1,7 +1,7 @@
 # Curricular SincNet: Towards Robust Deep Speaker Recognition by Emphasizing Hard Samples in Latent Space.
 This repository is part of supplementary materials for our paper which is accepted in the **20th International Conference of the Biometrics Special Interest Group (BIOSIG 2021)**
 
-Published version available [here](www.biosig.de)
+Published version available [here](https://biosig.de/)
 
 Authors: Labib Chowdhury, Mustafa Kamal, Najia Hasan, Nabeel Mohammed
 
@@ -27,7 +27,7 @@ If you use this code or part of it, please cite us!
 - requirement.txt (``` pip install -r requirements.txt ```)
 
 ## How to run a TIMIT experiment
-Even though the code can be easily adapted to any speech dataset, in the following part of the documentation we provide an example based on the popular [TIMIT dataset.
+Even though the code can be easily adapted to any speech dataset, in the following part of the documentation we provide an example based on the popular [TIMIT dataset](https://catalog.ldc.upenn.edu/LDC93S1).
 
 **1. Run TIMIT data preparation.**
 
