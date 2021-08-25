@@ -63,5 +63,5 @@ python speaker_id.py --cfg=cfg/SincNet_TIMIT.cfg
 The network might take several hours to converge (depending on the speed of your GPU card). In our case, using an *nvidia RTX2060 Super*, the full training took about 40 hours. 
 
 
-
+### Acknoledgement
 **We would like to thank [@mravanelli](https://github.com/mravanelli/SincNet) for SincNet implementation and [@HuangYG123](https://github.com/HuangYG123) for his awesome CurricularFace paper**
