@@ -1,7 +1,7 @@
 # Curricular SincNet: Towards Robust Deep Speaker Recognition by Emphasizing Hard Samples in Latent Space.
 This repository is part of supplementary materials for our paper which is accepted in the **20th International Conference of the Biometrics Special Interest Group (BIOSIG 2021)**
 
-Published version available [here](https://biosig.de/)
+Published version wil be available [here](https://biosig.de/)
 
 Authors: Labib Chowdhury, Mustafa Kamal, Najia Hasan, Nabeel Mohammed
 
